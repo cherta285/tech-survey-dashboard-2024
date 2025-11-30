@@ -1,0 +1,24 @@
+﻿# Credentials
+credentials.json
+*.json
+!bigquery/schema_definitions.json
+
+# Environment
+.env
+venv/
+env/
+
+# Data files
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

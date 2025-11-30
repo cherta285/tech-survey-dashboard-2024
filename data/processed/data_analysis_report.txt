@@ -1,0 +1,97 @@
+======================================================================
+ОТЧЕТ ПО АНАЛИЗУ ДАННЫХ
+======================================================================
+
+Файл: data/raw/survey_results.csv
+Строк: 18,845
+Столбцов: 114
+
+ТЕХНОЛОГИЧЕСКИЕ СТОЛБЦЫ:
+----------------------------------------------------------------------
+  • LanguageHaveWorkedWith
+  • LanguageWantToWorkWith
+  • LanguageAdmired
+  • DatabaseHaveWorkedWith
+  • DatabaseWantToWorkWith
+  • DatabaseAdmired
+  • PlatformHaveWorkedWith
+  • PlatformWantToWorkWith
+  • PlatformAdmired
+  • WebframeHaveWorkedWith
+  • WebframeWantToWorkWith
+  • WebframeAdmired
+
+
+ДЕМОГРАФИЧЕСКИЕ СТОЛБЦЫ:
+----------------------------------------------------------------------
+  • Age
+  • Employment
+  • EdLevel
+  • YearsCode
+  • YearsCodePro
+  • Country
+  • LanguageHaveWorkedWith
+  • LanguageWantToWorkWith
+  • LanguageAdmired
+  • DatabaseHaveWorkedWith
+  • DatabaseAdmired
+  • PlatformHaveWorkedWith
+  • PlatformAdmired
+  • WebframeHaveWorkedWith
+  • WebframeAdmired
+  • EmbeddedHaveWorkedWith
+  • EmbeddedWantToWorkWith
+  • EmbeddedAdmired
+  • MiscTechHaveWorkedWith
+  • MiscTechAdmired
+  • ToolsTechHaveWorkedWith
+  • ToolsTechAdmired
+  • NEWCollabToolsHaveWorkedWith
+  • NEWCollabToolsAdmired
+  • OfficeStackAsyncHaveWorkedWith
+  • OfficeStackAsyncAdmired
+  • OfficeStackSyncHaveWorkedWith
+  • OfficeStackSyncAdmired
+  • AISearchDevHaveWorkedWith
+  • AISearchDevAdmired
+  • AIToolInterested in Using
+  • AIToolNot interested in Using
+  • AINextMuch more integrated
+  • AINextMore integrated
+  • AINextLess integrated
+  • AINextMuch less integrated
+  • Knowledge_1
+  • Knowledge_2
+  • Knowledge_3
+  • Knowledge_4
+  • Knowledge_5
+  • Knowledge_6
+  • Knowledge_7
+  • Knowledge_8
+  • Knowledge_9
+  • ConvertedCompYearly
+
+
+ПРОПУЩЕННЫЕ ЗНАЧЕНИЯ:
+----------------------------------------------------------------------
+                       Column  Missing_Count  Missing_Percent
+   AINextMuch less integrated          18492            98.13
+        AINextLess integrated          18093            96.01
+              AINextNo change          14468            76.77
+   AINextMuch more integrated          13676            72.57
+              EmbeddedAdmired          13064            69.32
+       EmbeddedWantToWorkWith          12932            68.62
+       EmbeddedHaveWorkedWith          11943            63.37
+AIToolNot interested in Using          10067            53.42
+        AINextMore integrated           9816            52.09
+          ConvertedCompYearly           9295            49.32
+    AIToolInterested in Using           7656            40.63
+                  Knowledge_9           7289            38.68
+                  Frequency_3           7262            38.54
+                  Knowledge_8           7261            38.53
+                  Knowledge_7           7250            38.47
+                  Knowledge_6           7208            38.25
+                  Knowledge_5           7205            38.23
+             ProfessionalTech           7169            38.04
+                  Knowledge_2           7163            38.01
+                  Knowledge_4           7152            37.95

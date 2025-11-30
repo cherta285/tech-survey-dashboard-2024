@@ -1,0 +1,6 @@
+pandas==2.0.3
+google-cloud-bigquery==3.11.4
+google-cloud-bigquery-storage==2.22.0
+db-dtypes==1.1.1
+python-dotenv==1.0.0
+pyarrow==13.0.0
