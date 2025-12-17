@@ -26,7 +26,7 @@ This project analyzes technology preferences of 18,845 developers using interact
 - **Total Duration:** 2 weeks
 
 ### Team
-- Data Analyst: [Your Name]
+- Data Analyst: Pomogalova Tatyana
 - Tools: Python, BigQuery, Looker Studio
 ```
 
@@ -35,7 +35,7 @@ This project analyzes technology preferences of 18,845 developers using interact
 ### **📄 `looker_studio/dashboard_link.txt`**
 ```
 Live Dashboard URL:
-https://lookerstudio.google.com/reporting/[YOUR-REPORT-ID]
+https://lookerstudio.google.com/reporting/83b5e7e6-015b-4dcf-aab3-b3fb17d7943a
 
 Access Level: View Only (Public)
 Last Updated: 2025-11-23
