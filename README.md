@@ -2,12 +2,22 @@
 # Tech Survey Dashboard 2024
 
 📊 Interactive dashboard analyzing technology trends among 18,845 developers from 161 countries.
-
+![Dashboard Overview](looker_studio/page1_current_usage.png)
 ## Features
 - 3 interactive dashboard pages
 - 12+ visualizations
 - BigQuery backend
 - Looker Studio frontend
+## Dashboard Pages
+
+### 1. Current Technology Usage
+![Current Usage](looker_studio/page1_current_usage.png)
+### 2. Future Technology Trends
+![Future Trends](looker_studio/page2_future_trends.png)
+### 3. Demographics
+![Demographics](looker_studio/page3_demographics.png)
+## Live Dashboard
+🔗 [View Interactive Dashboard](https://lookerstudio.google.com/reporting/83b5e7e6-015b-4dcf-aab3-b3fb17d7943a)
 
 ## Technology Stack
 - Python 3.8+
